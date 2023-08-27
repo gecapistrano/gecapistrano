@@ -1,5 +1,7 @@
 # 👋 Hello, I’m Gem!
-1st year BS Computer Science student at De La Salle University – Dasmariñas.
+- 📌 Location: Cavite, Philippines
+- 🏫 School: De La Salle University - Dasmariñas 
+- 🌱 Course: BS Computer Science - Information Systems
 
 ### 🌱 Currently Learning
 
