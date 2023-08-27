@@ -1,20 +1,14 @@
-# 👋 Hello, I’m Gem!
+# 👋 Hello, I'm Gem Erien!
 **Location**: Cavite, Philippines <br>
 **School**: De La Salle University - Dasmariñas <br>
 **Course**: BS Computer Science
 
 ---
 
-### 🌱 Currently Learning
+🌱 **Currently Learning**: Typescript & React <br>
+🌟 **2023 Goals**: Build my portfolio, collaborate, and join events.
 
-- Typescript
-- React 
-
-### 🥅 2023 Goals
-
-- Build my personal portfolio
-- Collaborate with other developers
-- Join technology-related events
+---
 
 ## 📲 Get in touch
 
