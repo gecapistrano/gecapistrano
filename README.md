@@ -16,9 +16,7 @@
 - Collaborate with other developers
 - Join technology-related events
 
----
-
-### 📲 Get in touch
+## 📲 Get in touch
 
 - Email: cga0484@dlsud.edu.ph
 - Facebook: Gem Erien Capistrano
