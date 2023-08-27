@@ -1,24 +1,32 @@
-👋 Hello, I’m Gem Erien!
-Currently a 1st year BS Computer Science student at De La Salle University – Dasmariñas. I am eager to develop programs that are useful for our society.
+# ABOUT ME
+### 👋 Hello, I’m Gem Erien!
+1st year BS Computer Science student at De La Salle University – Dasmariñas.
 
-📚 Skills
-➼ Python
-➼ Java
-➼ SQL
+### 💻 Skills
 
-🌱 Currently Learning
-➼ Typescript
-➼ React
+- Python
+- Java
+- SQL
 
-🥅 2023 Goals
-• Build my portfolio
+### 🌱 Currently Learning
 
-🎢 Fun Fact
-• I love exploring places, learn about technology, and appreciate nature.
-• My other hobbies are video editing and photography.
+- Typescript
+- React 
 
-📫 Get in touch
-• Email: gemerienarpiacapistrano@gmail.com
-• Facebook: Gem Erien Capistrano
-• LinkedIn: Gem Erien Capistrano
-• Instagram: @gemcapistrano
+### 🌟 2023 Goals
+
+- Build my personal portfolio
+- Collaborate with other developers
+- Join events related with technology
+
+### 💡 Fun Fact
+
+- I love exploring places, learn about technology, and appreciate nature.
+- My other hobbies are video editing and photography.
+
+### 🤝 Get in touch
+
+- Email: cga0484@dlsud.edu.ph
+- Facebook: Gem Erien Capistrano
+- LinkedIn: Gem Erien Capistrano
+- Instagram: @gemcapistrano
