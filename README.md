@@ -1,16 +1,24 @@
-### Hi there 👋
+👋 Hello, I’m Gem Erien!
+Currently a 1st year BS Computer Science student at De La Salle University – Dasmariñas. I am eager to develop programs that are useful for our society.
 
-<!--
-**gecapistrano/gecapistrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Skills
+➼ Python
+➼ Java
+➼ SQL
 
-Here are some ideas to get you started:
+🌱 Currently Learning
+➼ Typescript
+➼ React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🥅 2023 Goals
+• Build my portfolio
+
+🎢 Fun Fact
+• I love exploring places, learn about technology, and appreciate nature.
+• My other hobbies are video editing and photography.
+
+📫 Get in touch
+• Email: gemerienarpiacapistrano@gmail.com
+• Facebook: Gem Erien Capistrano
+• LinkedIn: Gem Erien Capistrano
+• Instagram: @gemcapistrano
