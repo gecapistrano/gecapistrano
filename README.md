@@ -2,12 +2,6 @@
 ### 👋 Hello, I’m Gem Erien!
 1st year BS Computer Science student at De La Salle University – Dasmariñas.
 
-### 💻 Skills
-
-- Python
-- Java
-- SQL
-
 ### 🌱 Currently Learning
 
 - Typescript
