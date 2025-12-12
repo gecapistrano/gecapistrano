@@ -5,7 +5,7 @@
 
 ---
 
-🌱 **Currently Learning**: Typescript & React <br>
+🌱 **Currently Learning**: Machine Learning 7 Natural Language Processing <br>
 🌟 **2023 Goals**: Build my portfolio, collaborate, and join events.
 
 ---
