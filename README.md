@@ -13,6 +13,6 @@
 ## 📲 Get in touch
 
 - Email: cga0484@dlsud.edu.ph
-- Facebook: <a href="https://www.facebook.com/ge.capistrano" target="_blank">Gem Erien Capistrano</a>
+- Facebook: <a href="https://www.facebook.com/gemerien.capistrano" target="_blank">Gem Erien Capistrano</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/gemcapistrano/" target="_blank">Gem Erien Capistrano</a>
 - Instagram: <a href="https://www.instagram.com/gemcapistrano/" target="_blank">@gemcapistrano</a>
