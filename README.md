@@ -1,18 +1,26 @@
-# 👋 Hello, I'm Gem Erien!
-**Location**: Cavite, Philippines <br>
+# 👋 Hello, I'm Gem!
+**Course**: BS Computer Science Major in Intelligent Systems
 **School**: De La Salle University - Dasmariñas <br>
-**Course**: BS Computer Science
+**Location**: Cavite, Philippines <br>
+
+### Intelligent Systems | Machine Learning, Computer Vision, AR & Empathic Computing
+I am a Computer Science specialist dedicated to the intersection of **Artificial Intelligence** and **Human-Centric Design**. My work focuses on building **Empathic Computing** systems that understand human states to improve safety, accessibility, and well-being.
 
 ---
 
-🌱 **Currently Learning**: Machine Learning & Natural Language Processing. <br>
-🌟 **2023 Goals**: Build my portfolio, collaborate, and join events.
+### 🚀 Technical Focus
+* **Computer Vision:** Real-time object detection (YOLOv11), Image Segmentation, and rPPG (Remote Photoplethysmography).
+* **Natural Language Processing:** Named Entity Recognition (NER) and information extraction using spaCy.
+* **Specialization:** Affective Computing for Intelligent Environments.
 
 ---
 
-## 📲 Get in touch
+### 📊 Professional Milestones
+* 🌎 **TOEIC Score:** 940/990 (Expert Proficiency)
+* 🏅 **Best Presenter:** JASP Statistical Analysis Workshop
+* 🏆 **Top 10 Finalist:** AGRAIN Project | "The Mindful Harvest: Protecting the Hands that Feed Us" Hackathon organized by UPLB ACSS
 
-- Email: cga0484@dlsud.edu.ph
-- Facebook: <a href="https://www.facebook.com/gemerien.capistrano" target="_blank">Gem Erien Capistrano</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/gemcapistrano/" target="_blank">Gem Erien Capistrano</a>
-- Instagram: <a href="https://www.instagram.com/gemcapistrano/" target="_blank">@gemcapistrano</a>
+---
+
+### 🤝 Connect with Me
+* [LinkedIn](https://www.linkedin.com/in/gemcapistrano/)
