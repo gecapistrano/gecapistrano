@@ -1,4 +1,4 @@
-# Hello, I'm Gem! 👋
+# Hello, I'm Gem!
 **Course**: BS Computer Science Major in Intelligent Systems
 **School**: De La Salle University - Dasmariñas <br>
 **Location**: Cavite, Philippines <br>
