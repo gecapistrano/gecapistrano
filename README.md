@@ -18,7 +18,7 @@ I am a Computer Science specialist dedicated to the intersection of **Artificial
 ### 📊 Professional Milestones
 * 🌎 **TOEIC Score:** 940/990 (Expert Proficiency)
 * 🏅 **Best Presenter:** JASP Statistical Analysis Workshop
-* 🏆 **Top 10 Finalist:** AGRAIN Project | "The Mindful Harvest: Protecting the Hands that Feed Us" Hackathon organized by UPLB ACSS
+* 🏆 **Top 10 Finalist:** Hackathon organized by UPLB ACSS, "The Mindful Harvest: Protecting the Hands that Feed Us" | Project "Agrain"
 
 ---
 
