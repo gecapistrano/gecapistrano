@@ -3,8 +3,8 @@
 **School**: De La Salle University - Dasmariñas <br>
 **Location**: Cavite, Philippines <br>
 
-### Intelligent Systems | Machine Learning, Computer Vision, AR & Empathic Computing
-I am a Computer Science specialist dedicated to the intersection of **Artificial Intelligence** and **Human-Centric Design**. My work focuses on building **Empathic Computing** systems that understand human states to improve safety, accessibility, and well-being.
+### Tech Stack:
+:coffee:
 
 ---
 
