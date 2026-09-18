@@ -1,6 +1,6 @@
 <div align="center">
 
-### Gem Erien Capistrano
+### Gem Erien A. Capistrano
 
 **Computer Science (Intelligent Systems) at De La Salle University – Dasmariñas**
 
