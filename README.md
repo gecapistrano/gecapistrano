@@ -21,12 +21,34 @@ right now.
 
 Every project below is live. Click the demo, then read the code.
 
-| Project | What it is | Stack | |
-| :--- | :--- | :--- | :--- |
-| **[Agrain](https://github.com/gecapistrano/Agrain)** | Offline-first break-even calculator that tells a Filipino farmer, at the farm gate, whether an offer is a loss or a profit. **Top 10, UPLB ACSS Innovation Lab Hackathon.** 108 tests. | React 19, Vite, IndexedDB, PWA | [Demo](https://agrain.vercel.app/) |
-| **[Affective Signal Processing](https://github.com/gecapistrano/affective-signal-processing)** | Emotion recognition from ECG + GSR signals. 88 handcrafted features and gradient-boosting ensembles beat the published CNN-LSTM baseline by **over 14 points** (80.97% vs 66.64%). | Python, scikit-learn, LightGBM, CatBoost | — |
-| **[Museum Engine](https://github.com/gecapistrano/museum-engine)** | A folder of images becomes a gallery you can walk through. Pools real spotlights and reassigns them to the nearest artworks, so hundreds of pieces hold 60 fps. | Next.js 15, React Three Fiber, Three.js | [Demo](https://an-appreciation-of-a-masterpiece.vercel.app) |
-| **[Quiz Engine](https://github.com/gecapistrano/quiz-engine)** | Trivia game built for developer friends, so the answer key never reaches the browser: server-side grading and Supabase RLS with no public policies. | Next.js 16, TypeScript, Supabase | [Demo](https://22nd-birthday-quiz.vercel.app) |
+**[Agrain](https://github.com/gecapistrano/Agrain)** — [live demo](https://agrain.vercel.app/)
+&nbsp;·&nbsp; `React 19` `Vite` `IndexedDB` `PWA`
+> **Top 10 Finalist, UPLB ACSS Innovation Lab Hackathon.** An offline-first tool
+> that answers one question for a Filipino farmer standing at the farm gate:
+> *is this offer a loss or a profit?* Logs expenses without internet, computes
+> the break-even price per kilo, and turns the screen red or green against any
+> offer. 108 tests across 20 suites.
+
+**[Affective Signal Processing](https://github.com/gecapistrano/affective-signal-processing)**
+&nbsp;·&nbsp; `Python` `scikit-learn` `LightGBM` `CatBoost`
+> Emotion recognition from ECG and GSR signals. Instead of deep learning on a
+> small physiological dataset, I extract 88 handcrafted features per window and
+> train gradient-boosting ensembles — which beat the published CNN-LSTM
+> baseline by **over 14 points** (80.97% vs 66.64% on 8-class).
+
+**[Museum Engine](https://github.com/gecapistrano/museum-engine)** — [live demo](https://an-appreciation-of-a-masterpiece.vercel.app)
+&nbsp;·&nbsp; `Next.js 15` `React Three Fiber` `Three.js`
+> A folder of images becomes a gallery you can walk through. Dozens of
+> shadow-casting spotlights would kill the frame rate, so the engine keeps a
+> small pool of real lights and reassigns them to whatever the visitor is
+> standing near. That's what lets hundreds of artworks hold 60 fps.
+
+**[Quiz Engine](https://github.com/gecapistrano/quiz-engine)** — [live demo](https://22nd-birthday-quiz.vercel.app)
+&nbsp;·&nbsp; `Next.js 16` `TypeScript` `Supabase`
+> A trivia game whose players were developers, so the answer key must never
+> reach the browser. Answers are stripped server-side before serialisation,
+> grading happens in the API route, and Supabase RLS ships with no public
+> policies. Opening DevTools gets you nothing.
 
 **In progress —** *Sulyap Lasalyano*, my undergraduate thesis: a web-based AR
 and computer vision system (YOLOv8, ONNX, MindAR, FastAPI) for museum
