@@ -19,7 +19,16 @@ right now.
 
 ### Featured work
 
-Every project below is live. Click the demo, then read the code.
+Every project below is shipped. Live demos are linked where the original can be public.
+
+**[Fix Finder](https://github.com/gecapistrano/fix-finder)**
+&nbsp;·&nbsp; `Next.js` `Gemini` `Supabase`
+> **1st place, Henkel Hackathon PH 2026.** Photograph something broken. A
+> two-stage Gemini pipeline decides whether a general-purpose super glue can
+> actually repair it — and is built to say *no* when it cannot. The refusal
+> path is a separate prompt, so the success path cannot quietly talk itself
+> into a bad recommendation. This is a debranded public copy of the winning
+> build; the sponsor-branded original stays private.
 
 **[Agrain](https://github.com/gecapistrano/Agrain)** — [live demo](https://agrain.vercel.app/)
 &nbsp;·&nbsp; `React 19` `Vite` `IndexedDB` `PWA`
@@ -36,7 +45,7 @@ Every project below is live. Click the demo, then read the code.
 > train gradient-boosting ensembles — which beat the published CNN-LSTM
 > baseline by **over 14 points** (80.97% vs 66.64% on 8-class).
 
-**[Museum Engine](https://github.com/gecapistrano/museum-engine)** — [live demo](https://an-appreciation-of-a-masterpiece.vercel.app)
+**[Museum Engine](https://github.com/gecapistrano/museum-engine)**
 &nbsp;·&nbsp; `Next.js 15` `React Three Fiber` `Three.js`
 > A folder of images becomes a gallery you can walk through. Dozens of
 > shadow-casting spotlights would kill the frame rate, so the engine keeps a
@@ -59,6 +68,7 @@ defended.
 
 ### Background
 
+- **1st place** — Fix Finder, Henkel Hackathon PH 2026
 - **Top 10 Finalist** — *The Mindful Harvest*, UPLB ACSS Innovation Lab Hackathon
 - **Best Presenter** — JASP Statistical Analysis Workshop, DLSU-D CICS Mathematics & Statistics Department
 - **TOEIC 940/990** — Professional Proficiency
