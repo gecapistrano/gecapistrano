@@ -30,6 +30,13 @@ Every project below is shipped. Live demos are linked where the original can be 
 > into a bad recommendation. This is a debranded public copy of the winning
 > build; the sponsor-branded original stays private.
 
+**[PH Flight Radar](https://github.com/gecapistrano/ph-flight-radar)**
+&nbsp;·&nbsp; `Next.js` `MapLibre` `OpenSky`
+> Live ADS-B traffic over the Philippine Flight Information Region. A
+> server-side proxy caches the OpenSky feed so the browser never talks to it
+> directly, and aircraft are coloured by altitude against an OpenFreeMap
+> chart of the archipelago. Built to make the aviation interest concrete.
+
 **[Agrain](https://github.com/gecapistrano/Agrain)** — [live demo](https://agrain.vercel.app/)
 &nbsp;·&nbsp; `React 19` `Vite` `IndexedDB` `PWA`
 > **Top 10 Finalist, UPLB ACSS Innovation Lab Hackathon.** An offline-first tool
