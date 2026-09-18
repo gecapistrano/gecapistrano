@@ -5,7 +5,7 @@
 **Computer Science (Intelligent Systems) at De La Salle University – Dasmariñas**
 
 I build things that ship. Machine learning on physiological signals, real-time
-computer vision, and 3D on the web — usually with a deployed demo you can open
+computer vision, and 3D on the web. Usually with a deployed demo you can open
 right now.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gemcapistrano)
