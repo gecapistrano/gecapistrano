@@ -4,7 +4,7 @@
 
 **Computer Science (Intelligent Systems) at De La Salle University – Dasmariñas**
 
-I build things that matters, solve a problem, or make our life more exciting!
+I build things that matters, solve a problem, or make our life exciting.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gemcapistrano)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gemerienarpiacapistrano@gmail.com)
