@@ -80,7 +80,7 @@ defended.
 
 Currently focused on machine learning, computer vision and augmented reality.
 Particularly interested in applying them in **aviation**, and always up for a
-hackathon, may it be onsite or online, local or international.
+**hackathon**, may it be onsite or online, local or international!
 
 ---
 
