@@ -52,7 +52,7 @@ Every project below is shipped. Live demos are linked where the original can be 
 > train gradient-boosting ensembles — which beat the published CNN-LSTM
 > baseline by **over 14 points** (80.97% vs 66.64% on 8-class).
 
-**[Museum Engine](https://github.com/gecapistrano/museum-engine)**
+**[Museum Engine](https://github.com/gecapistrano/museum-engine)** — [live demo](https://museum-engine.vercel.app/)
 &nbsp;·&nbsp; `Next.js 15` `React Three Fiber` `Three.js`
 > A folder of images becomes a gallery you can walk through. Dozens of
 > shadow-casting spotlights would kill the frame rate, so the engine keeps a
