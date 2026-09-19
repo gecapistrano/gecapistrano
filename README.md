@@ -28,13 +28,6 @@ Every project below have a story and a purpose.
 > into a bad recommendation. This is a debranded public copy of the winning
 > build; the sponsor-branded original stays private.
 
-**[PH Flight Radar](https://github.com/gecapistrano/ph-flight-radar)** — [live demo](https://ph-flight-radar.vercel.app)
-&nbsp;·&nbsp; `Next.js` `MapLibre` `OpenSky`
-> Live ADS-B traffic over the Philippine Flight Information Region. A
-> server-side proxy caches the OpenSky feed so the browser never talks to it
-> directly, and aircraft are coloured by altitude against an OpenFreeMap
-> chart of the archipelago. Built to make the aviation interest concrete.
-
 **[Agrain](https://github.com/gecapistrano/Agrain)** — [live demo](https://agrain.vercel.app/)
 &nbsp;·&nbsp; `React 19` `Vite` `IndexedDB` `PWA`
 > **Top 10 Finalist, UPLB ACSS Innovation Lab Hackathon.** An offline-first tool
@@ -42,6 +35,13 @@ Every project below have a story and a purpose.
 > *is this offer a loss or a profit?* Logs expenses without internet, computes
 > the break-even price per kilo, and turns the screen red or green against any
 > offer. 108 tests across 20 suites.
+
+**[PH Flight Radar](https://github.com/gecapistrano/ph-flight-radar)** — [live demo](https://ph-flight-radar.vercel.app)
+&nbsp;·&nbsp; `Next.js` `MapLibre` `OpenSky`
+> Live ADS-B traffic over the Philippine Flight Information Region. A
+> server-side proxy caches the OpenSky feed so the browser never talks to it
+> directly, and aircraft are coloured by altitude against an OpenFreeMap
+> chart of the archipelago. Built to make the aviation interest concrete.
 
 **[Affective Signal Processing](https://github.com/gecapistrano/affective-signal-processing)**
 &nbsp;·&nbsp; `Python` `scikit-learn` `LightGBM` `CatBoost`
