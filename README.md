@@ -21,7 +21,7 @@ right now.
 
 Every project below is shipped. Live demos are linked where the original can be public.
 
-**[Fix Finder](https://github.com/gecapistrano/fix-finder)**
+**[Fix Finder](https://github.com/gecapistrano/fix-finder)** — [live demo](https://fix-finder-gamma.vercel.app/)
 &nbsp;·&nbsp; `Next.js` `Gemini` `Supabase`
 > **1st place, Henkel Hackathon PH 2026.** Photograph something broken. A
 > two-stage Gemini pipeline decides whether a general-purpose super glue can
