@@ -17,7 +17,7 @@ I build things that matters, solve a problem, or make our life more exciting!
 
 ### Featured work
 
-Every project below is shipped. Live demos are linked where the original can be public.
+Every project below got a story and a purpose. Live demos are linked where the original can be public.
 
 **[Fix Finder](https://github.com/gecapistrano/fix-finder)** — [live demo](https://fix-finder-gamma.vercel.app/)
 &nbsp;·&nbsp; `Next.js` `Gemini` `Supabase`
